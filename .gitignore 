@@ -1,24 +1,4 @@
-# Python cache files
+.env
 __pycache__/
 *.pyc
-*.pyo
-
-# Environment variables
-.env
-
-# IDE/editor files
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
-
-# OS-specific files
-.DS_Store
-Thumbs.db
-
-# Logs and debug
-*.log
-
-# Virtual environment folders
 venv/
-env/
