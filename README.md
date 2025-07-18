@@ -1,3 +1,4 @@
+[Oxygen Dev Network Bot](https://github.com/abu-sinan/oxygen-dev-bot/blob/main/thumbnail.png)
 # Oxygen Dev Network Bot 🤖🚀
 
 A custom Python Discord bot for the **Oxygen Dev Network**, designed to automate onboarding and guide new members with interactive role buttons, custom rules, goals, and welcome messages.
@@ -21,7 +22,7 @@ A custom Python Discord bot for the **Oxygen Dev Network**, designed to automate
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/oxygen-dev-bot.git
+git clone https://github.com/abu-sinan/oxygen-dev-bot.git
 cd oxygen-dev-bot
 ```
 
@@ -43,7 +44,7 @@ pip install discord.py python-dotenv
 DISCORD_TOKEN=your-bot-token-here
 ```
 
-- Ensure your bot token stays secret (it’s ignored by Git via `.gitignore`).
+- Ensure your bot token stays **secret** (it’s ignored by Git via `.gitignore`).
 
 ---
 
@@ -83,7 +84,7 @@ oxygen-dev-bot/
 
 ## 📄 License
 
-MIT License
+[MIT License](https://github.com/abu-sinan/oxygen-dev-bot/blob/main/LICENSE)
 
 ---
 
