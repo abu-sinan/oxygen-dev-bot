@@ -1,4 +1,4 @@
-[Oxygen Dev Network Bot](https://github.com/abu-sinan/oxygen-dev-bot/blob/main/thumbnail.png)
+![Oxygen Dev Network Bot](https://github.com/abu-sinan/oxygen-dev-bot/blob/main/thumbnail.png)
 # Oxygen Dev Network Bot 🤖🚀
 
 A custom Python Discord bot for the **Oxygen Dev Network**, designed to automate onboarding and guide new members with interactive role buttons, custom rules, goals, and welcome messages.
